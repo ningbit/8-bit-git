@@ -1,3 +1,7 @@
+NOTE #1
+
+--------------------
+
 Dear $User,
 
 By the time you read this, BSOD will have already locked me away in the cursed dungeon remote branch. But no fear, you have been granted the powers of Git. The first thing to do is find out where you are. Type:
@@ -23,6 +27,42 @@ Good luck!
 
 -Princess BASHellda
 
+>>>>>>>>>>>>>>>>>>>>>>>
+
+NOTE #2
+
+--------------------
+
+Dear $User,
+
+You've made it to the backup branch! Type the following to check:
+
+git status
+
+If you check out the "Bit Palace" directory, you'll see a complete bit-palace. Type the two following commands
+
+cd bit_palace
+cat bit_palace.txt
+
+To return to the previous directory:
+
+cd ..
+
+Now, you'll need to restore the palace by merging the "backup" branch to the "master" branch. You'll need to 
+
+git checkout master
+git merge backup
+
+Before you do that, here's the secret code that will allow you to pull the master_sword out of master_sword_in_stone.zip. The code is "versioncontrol". The command to pull the sword out is 
+
+unzip master_sword_in_stone.zip
+
+Now return to the master branch and merge the backup to restore the palace. Good luck!
+
+-Princess BASHellda
+
+P.S. After restoring the palace, you'll want to visit the "cursed_dungeon" branch. Re-read this note if you need help with "checking out" that branch ;
+
              __
              ||
              ||
@@ -39,4 +79,5 @@ Good luck!
     /      / \  /\    \  \
    #      /_I_\/T_\    #  #
   /_____________________\__\
+
 
