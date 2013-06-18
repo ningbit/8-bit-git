@@ -1,0 +1,30 @@
+V1.0.0
+
+!!Welcome to 8-BIT GIT!!
+
+Evil has descended upon the lands of 8-Bit. The Prince of Darkness BSOD has reduced the Bit Palace to rubble and abducted Princess BASHellda, locking her in a remote cursed dungeon.  With the power of Git and your command line, restore the kingdom to its former glory and rescue the princess.
+
+Tools:
+Command Line
+Git
+
+Technical Tasks:
+
+1) Clone the repository (Make a copy of the project from GitHub)
+2) Navigate around the "Master" branch, look at status/logs
+3) Discover remote branch "Backup", checkout branch
+4) Merge "Backup" into "Master" to restore data
+5) Unlock the master sword with code
+6) Checkout "Cursed_Dungeon" branch
+7) Remove BSOD
+8) Merge "Cursed_Dungeon" to "Master" to rescue princess
+9) Run GAME_END.sh to check that tasks have been completed.
+
+Rules:
+Game should be played from the command line:
+ --Use "ls" to show files and folders
+ --Use "cd <foldername>" and "cd .." to move around directory structure 
+ --Use "cat <filename.txt>" to read text files.
+
+End Game:
+Run "./GAME_END.sh" to check if winning conditions have been satisfied!
