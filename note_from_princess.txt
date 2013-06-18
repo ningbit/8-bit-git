@@ -1,0 +1,42 @@
+Dear $User,
+
+By the time you read this, BSOD will have already locked me away in the cursed dungeon remote branch. But no fear, you have been granted the powers of Git. The first thing to do is find out where you are. Type:
+
+git status
+
+Currently, you are on the master branch. You should see "On branch master" and more output. To find out additional local branches, type:
+
+git branch
+
+There should be none, as you haven't created any. However, if you type:
+
+
+git branch -a
+
+You should see a few remote branches from the origin, one called "backup" and one called "cursed_dungeon". Switch to the "backup" branch by typing:
+
+git checkout backup
+
+Once on this different branch, you will have access to the backup Palace and an updated note from me.
+
+Good luck!
+
+-Princess BASHellda
+
+             __
+             ||
+             ||
+          ___||___
+        _/#______#\_
+       / _/ | || \_ \
+      |_|   | ||   |_|
+            | ||
+            | ||
+            | ||
+       _____|_||______
+      /      / \    \  \
+     #      /_G_\    #  #
+    /      / \  /\    \  \
+   #      /_I_\/T_\    #  #
+  /_____________________\__\
+
